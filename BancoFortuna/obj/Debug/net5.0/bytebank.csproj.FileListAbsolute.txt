@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.exe
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.deps.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\ref\bytebank.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\bytebank.pdb
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.csproj.AssemblyReference.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\ref\bytebank.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.pdb
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\bytebank.genruntimeconfig.cache

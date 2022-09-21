@@ -1,0 +1,16 @@
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.exe
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.deps.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.runtimeconfig.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.runtimeconfig.dev.json
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\ref\BancoFortuna.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\bin\Debug\net5.0\BancoFortuna.pdb
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.AssemblyInfoInputs.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.AssemblyInfo.cs
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.csproj.CoreCompileInputs.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\ref\BancoFortuna.dll
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.pdb
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.genruntimeconfig.cache
+C:\Users\amanda.ribeiro\source\repos\bytebank\obj\Debug\net5.0\BancoFortuna.csproj.AssemblyReference.cache
